@@ -5,4 +5,6 @@
 #hello {
     color: #a8a8a8;
     font-family: sans-serif, monospace;
+    border: solid red 1px;
+    background: black;
 }
